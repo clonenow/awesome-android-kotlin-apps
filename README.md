@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/100?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/count.svg&color=0984e3"/></a>
+  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/110?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/count.svg&color=0984e3"/></a>
   <a href="#"><img alt="Android Language Badge" src="https://badgen.net/badge/OS/Android?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/android.svg&color=3ddc84"/></a>
   <a href="#"><img alt="Kotlin Language Badge" src="https://badgen.net/badge/language/Kotlin?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/kotlin.svg&color=f18e33"/></a>
   <a href="https://github.com/androiddevnotes"><img alt="androiddevnotes GitHub badge" src="https://badgen.net/badge/GitHub/androiddevnotes?icon=github&color=24292e"/></a>
@@ -69,7 +69,7 @@
 
     - Unofficial Unsplash Android App
 
-    - Tech Stack = Koin, Coroutines, Testing, Retrofit, Room, Firestore, Firebase In-App Messaging, Paging, Navigation, Google Play Billing, Muzei, LiveData, ViewModel
+    - Tech Stack = Koin, Coroutines, Testing, Retrofit, Room, Firestore, Firebase In-App Messaging, Paging, Navigation, Google Play Billing, Muzei, LiveData, ViewModel  
 
 - https://github.com/utsmannn/hiya-hiya-hiya
 
@@ -82,8 +82,13 @@
   - TVFlix connects with TVDB API to give you popular shows and let you mark anyone as favorite.
 
   - Tech Stack = Dagger Hilt, Coroutines, Testing, Retrofit, Room, Paging, Navigation, LiveData, ViewModel
-  
 
+- https://github.com/fevziomurtekin/DeezerClone
+
+    - Deezer Clone application. Fetching data from the network and integrating local data in the database via repository pattern.
+
+    - Tech Stack = Dagger Hilt, Coroutines, Flow, Jetpack (Room, ViewModel,Navigation LiveData), Retrofit, Paging, Testing
+  
 - https://github.com/vidit135g/Replify-Messenger [Kotlin + Java]
 
     - Minimal text messenger with a ton of features.
@@ -702,10 +707,55 @@
     - 🦠 Simple COVID19 data monitoring worldwide with interactive chart and map 
     
     - Tech Stack = MVVM, Live Data, Koin, RxJava, RxBinding, Offline first with simple caching, Spek2Framwework for Unit Testing, etc
+    
+- https://github.com/Tristankluivert/Knote
+      
+     - Knote app is a simple yet standard note taking app with features like image addition, ocr, text to speech and more
+    
+     - Tech Stack = ViewModel, Live Data, Koin, Room db, Coroutines etc
+     
+ - https://github.com/Devansh-Maurya/PukaPuka
+     - An Android app to identify books from their covers and give info, built using ML Kit's Text Recognition API, Android Jetpack Libraries and Google Books API
+     
+     - Tech Stack = MVVM, Kotlin, LiveData, ViewModel, Navigation Components, CameraKit, Firebase ML Kit Text Recognition API, Glide, Volley, Lottie
+      
+
+ - https://github.com/fionicholas/Football-App
+     - Football App is an application to show Football Match, List Football Team, and Standing in Leagues from TheSportsDB API
+     
+     - Tech Stack = MVVM, Kotlin, LiveData, ViewModel, Retrofit, Room, Koin, RxJava, etc
+      
+
+- https://github.com/ryanrvldo/MovieCatalogue
+  - Movie catalogue is android application that using some architecture components stuff and fetch API from TMDB. This application can show some movie and tv show that available in TMDB API. Also user can search some related stuff here.
+  - Tech Stack = MVVM, ViewModel, LiveData, Coroutines, Firebase Cloud Messaging, Retrofit, Room, Glide, Dagger Hilt, and Google Material.
+  
+  
+- https://github.com/mutualmobile/Praxis
+
+    - Sample app written in Kotlin which fetches random jokes and displays it.
+
+
+    - Tech Stack = MVVM architecture, Dagger, Retrofit, Kotlin Coroutines, RXJava2, ViewModel, Data Binding
+
+
+- https://github.com/MindorksOpenSource/MVVM-Architecture-Android-Beginners
+
+    - Sample app that implements MVVM architecture using Kotlin.
+
+    - Tech Stack = MVVM architecture, Dagger, Kotlin Coroutines, RXJava2, ViewModel, Data Binding, Live Data.
+
+- https://github.com/mrcsxsiq/Kotlin-Pokedex
+
+    - Sample app that implements MVVM architecture using Kotlin.
+
+    - Tech Stack = MVVM,  Kotlin, LiveData, Navigation Jetpack, ViewModel, Room, Gradle Kotlin DSL, Databinding, Retrofit, Koin and Ktlint
+
 
 #### Clean Architecture
 
 - https://github.com/happysingh23828/Android-Clean-Architecture
+
     - This is a sample movie list  Android application 📱 built to demonstrate use of [**Clean Architecture**](https://github.com/happysingh23828/Android-Clean-Architecture#what-is-clean-architecture) tools with [**80% code coverage**](https://github.com/happysingh23828/Android-Clean-Architecture#--code-coverage-reports). Dedicated to all Android Developers with ❤️. 
 
     - Tech Stack = Dagger, Unit Testing for modules, Mockito, RxJava, Retrofit, Room, CI-CD, SOLID, Code Coverage, Jacoco, Detekt, ktlint, Stetho, LiveData, ViewModel
@@ -750,6 +800,23 @@
     
     - Tech Stack = Dagger, Coroutines, Retrofit, Room, LiveData, ViewModel , Stetho
     
+- https://github.com/SmartToolFactory/PropertyFindAR
+
+    - 🏘 Real Estate App with many screens written with RxJava3+Flow with offline first/last using dynamic feature modules, and TDD, used ConcatAdapter to have RV with different layouts.
+     
+    - Tech Stack = RxJava3, Coroutines Flow, Retrofit, Room, Dagger Hilt, Dynamic Feature Modules, ConcatAdapter, LiveData, ViewModel, SavedStateHandle, WorkManager, Glide, Lottie, MpCharts, MockWebServer, MockK, FlowTestObserver, ktLint, detekt, Git Hooks, Git Flow
+    
+- https://github.com/sansets/android-clean-architecture
+
+    - Food recipe app that uses Modularization, Single Activity Architecture, and Clean Architecture.
+    
+    - Tech Stack = Navigation Component, Dagger, Coroutines Flow, Room, Retrofit, LiveData, ViewModel, View Binding, Dynamic Feature Modules.
+    
+- https://github.com/VladimirWrites/BLTaxi
+
+    - 🚕 BL Taxi is a simple app for calling a taxi in the city Banja Luka built using modern Android development tools (Clean Architecture, Kotlin, Coroutines, MVVM, Testing)
+
+    - Tech Stack = Koin, Retrofit, Room, Data Binding, Live Data, View Model, Work Manager, Material Components
     
 ### MVI
 
@@ -767,6 +834,13 @@
     - ⚡️Comic reader app 📘. Learning MVVM / MVI with 🌀 RxKotlin, Retrofit, Kotlin Coroutine, Work Manager, Room, Firebase ... ❄️
 
     - Tech Stack = Koin, Coroutines, RxJava, Retrofit, Room, Firestore, Firebase Auth, Firebase Storage, WorkManager, Navigation, Paging, LiveData, ViewModel
+
+
+- https://github.com/R4md4c/GameDealz
+
+    - A non-official Android client for IsThereAnyDeal.com, it uses its API to retrieve/search for deals and compare prices.
+    
+    - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, acra, fastAdapter, Paging, JSoup, dropbox/Store, LiveData, ViewModel
 
 
 - https://github.com/mitchtabian/Open-API-Android-App
@@ -789,8 +863,21 @@
     - Android example with Clean Architecture by layer.
 
     - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Room, Firestore, Firebase Auth, Navigation, Markdown Processor, LiveData, ViewModel
+    
 
+- https://github.com/Ezike/Baking-App-Kotlin
 
+    - Android MVI clean architecture sample that shows a list of recipes, their ingredients and hands-on videos for making them.
+
+    - Tech Stack = Dagger hilt, Kotlin Coroutines & StateFlow, Unit Testing, Retrofit, DFM Navigation, FlowBinding, Exoplayer
+    
+
+- https://github.com/Ezike/MVI_UIComponents
+
+    - Android project showcasing the use of View components for rendering UI. 
+
+    - Tech Stack = Jetpack, Dagger hilt, Kotlin Coroutines & StateFlow, Room, Retrofit, FlowBinding 
+    
 
 ### MVP
 
@@ -822,11 +909,12 @@
 
 
     - Tech Stack = Dagger, Coroutines, Room, Firebase Auth, Firebase Database, Paging, Navigation, Evernote android-job, Facebook Litho, Facebook SoLoader, Biometric
-
+    
+   
 
 ## :books: Tech Stack/Libraries
 
-- [Dagger](https://github.com/google/dagger), [Koin](https://github.com/InsertKoinIO/koin), [Kodein](https://github.com/Kodein-Framework/Kodein-DI), [Inorichi Injekt](https://jitpack.io/p/inorichi/injekt), [Coroutines](https://github.com/Kotlin/kotlinx.coroutines), [Rx](https://github.com/ReactiveX/RxJava), [Testing](https://developer.android.com/studio/test), [Retrofit](https://github.com/square/retrofit), [Fuel](https://github.com/kittinunf/fuel), [Room](https://developer.android.com/topic/libraries/architecture/room), [Realm](https://github.com/realm/realm-java), [Firebase Products](https://firebase.google.com/), [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager), [ExoPlayer](https://github.com/google/ExoPlayer), [Paging](https://developer.android.com/topic/libraries/architecture/paging), [Navigation](https://developer.android.com/guide/navigation), [Lottie](https://github.com/airbnb/lottie-android), [Zoomy](https://github.com/imablanco/Zoomy), [JSoup](https://jsoup.org/download), [js-evaluator-for-android](https://github.com/evgenyneu/js-evaluator-for-android), [Algolia Search](https://www.algolia.com/doc/guides/getting-started/quick-start/tutorials/quick-start-with-the-api-client/android/), [Conductor](https://github.com/bluelinelabs/Conductor), [Call Control DataShare](https://github.com/CallControl/Call-Control-DataShare), [libphonenumber-android](https://github.com/MichaelRocks/libphonenumber-android), [Mixpanel Android](https://github.com/mixpanel/mixpanel-android), [Venom](https://github.com/YarikSOffice/venom), [FlowLayout](https://github.com/nex3z/FlowLayout), [ARCore](https://developers.google.com/ar/discover), [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer), [PermissionX](https://github.com/guolindev/PermissionX), [EventBus](https://github.com/greenrobot/EventBus), [Dynamicanimation](https://developer.android.com/jetpack/androidx/releases/dynamicanimation), [Google Drive](https://developers.google.com/drive/android), [Dropbox](https://github.com/dropbox), [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart), [Facebook Products](https://developers.facebook.com/docs/facebook-login/android/), [PayPal](https://developer.paypal.com/docs/), [Stripe](https://github.com/stripe/stripe-android), [Easy Permissions](https://github.com/googlesamples/easypermissions), [socketIO](https://socket.io/), [Dexter](https://github.com/Karumi/Dexter), [Tikxml](https://github.com/Tickaroo/tikxml), [Markwon](https://github.com/noties/Markwon), [Scarlet](https://github.com/Tinder/Scarlet), [Android-Permissions](https://github.com/nabinbhandari/Android-Permissions), [RxPermissions](https://github.com/tbruyelle/RxPermissions), [android-upload-service](https://github.com/gotev/android-upload-service), [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher), [ShortcutBadger](https://github.com/leolin310148/ShortcutBadger), [ARouter](https://github.com/alibaba/ARouter), [Sandwich](https://github.com/skydoves/Sandwich), [Calendar view](https://github.com/kizitonwose/CalendarView), [Biometric](https://developer.android.com/jetpack/androidx/releases/biometric), [Pretty Time](https://github.com/ocpsoft/prettytime), [Markdown Processor](https://github.com/yydcdut/RxMarkdown), [DiskLruCache](https://github.com/JakeWharton/DiskLruCache), [Duktape Android](https://github.com/square/duktape-android), [Evernote android-job](https://github.com/evernote/android-job), [Facebook Litho](https://github.com/facebook/litho), [Facebook SoLoader](https://github.com/facebook/SoLoader), [Data Binding](https://developer.android.com/topic/libraries/data-binding)
+- [Dagger](https://github.com/google/dagger), [Koin](https://github.com/InsertKoinIO/koin), [Kodein](https://github.com/Kodein-Framework/Kodein-DI), [Inorichi Injekt](https://jitpack.io/p/inorichi/injekt), [Coroutines](https://github.com/Kotlin/kotlinx.coroutines), [Rx](https://github.com/ReactiveX/RxJava), [Testing](https://developer.android.com/studio/test), [Retrofit](https://github.com/square/retrofit), [Fuel](https://github.com/kittinunf/fuel), [Room](https://developer.android.com/topic/libraries/architecture/room), [Realm](https://github.com/realm/realm-java), [Firebase Products](https://firebase.google.com/), [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager), [ExoPlayer](https://github.com/google/ExoPlayer), [Paging](https://developer.android.com/topic/libraries/architecture/paging), [Navigation](https://developer.android.com/guide/navigation), [Lottie](https://github.com/airbnb/lottie-android), [Zoomy](https://github.com/imablanco/Zoomy), [JSoup](https://jsoup.org/download), [js-evaluator-for-android](https://github.com/evgenyneu/js-evaluator-for-android), [Algolia Search](https://www.algolia.com/doc/guides/getting-started/quick-start/tutorials/quick-start-with-the-api-client/android/), [Conductor](https://github.com/bluelinelabs/Conductor), [Call Control DataShare](https://github.com/CallControl/Call-Control-DataShare), [libphonenumber-android](https://github.com/MichaelRocks/libphonenumber-android), [Mixpanel Android](https://github.com/mixpanel/mixpanel-android), [Venom](https://github.com/YarikSOffice/venom), [FlowLayout](https://github.com/nex3z/FlowLayout), [ARCore](https://developers.google.com/ar/discover), [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer), [PermissionX](https://github.com/guolindev/PermissionX), [EventBus](https://github.com/greenrobot/EventBus), [Dynamicanimation](https://developer.android.com/jetpack/androidx/releases/dynamicanimation), [Google Drive](https://developers.google.com/drive/android), [Dropbox](https://github.com/dropbox), [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart), [Facebook Products](https://developers.facebook.com/docs/facebook-login/android/), [PayPal](https://developer.paypal.com/docs/), [Stripe](https://github.com/stripe/stripe-android), [Easy Permissions](https://github.com/googlesamples/easypermissions), [socketIO](https://socket.io/), [Dexter](https://github.com/Karumi/Dexter), [Tikxml](https://github.com/Tickaroo/tikxml), [Markwon](https://github.com/noties/Markwon), [Scarlet](https://github.com/Tinder/Scarlet), [Android-Permissions](https://github.com/nabinbhandari/Android-Permissions), [RxPermissions](https://github.com/tbruyelle/RxPermissions), [android-upload-service](https://github.com/gotev/android-upload-service), [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher), [ShortcutBadger](https://github.com/leolin310148/ShortcutBadger), [ARouter](https://github.com/alibaba/ARouter), [Sandwich](https://github.com/skydoves/Sandwich), [Calendar view](https://github.com/kizitonwose/CalendarView), [Biometric](https://developer.android.com/jetpack/androidx/releases/biometric), [Pretty Time](https://github.com/ocpsoft/prettytime), [Markdown Processor](https://github.com/yydcdut/RxMarkdown), [DiskLruCache](https://github.com/JakeWharton/DiskLruCache), [Duktape Android](https://github.com/square/duktape-android), [Evernote android-job](https://github.com/evernote/android-job), [Facebook Litho](https://github.com/facebook/litho), [Facebook SoLoader](https://github.com/facebook/SoLoader), [Data Binding](https://developer.android.com/topic/libraries/data-binding), [TimelineView](https://github.com/anacoimbrag/timeline-view)
 
 ## :memo: Contributing
 
